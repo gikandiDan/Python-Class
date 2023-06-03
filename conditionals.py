@@ -6,3 +6,4 @@ else:
    print("Bingo!!")
    print("Head to the polling station!")
    print("Vote wisely")
+   print("Lovely")

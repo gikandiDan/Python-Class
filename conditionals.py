@@ -5,4 +5,4 @@ if age<18:
 else:
    print("Bingo!!")
    print("Head to the polling station!")
-   Print("Vote wisely")
+   print("Vote wisely")
